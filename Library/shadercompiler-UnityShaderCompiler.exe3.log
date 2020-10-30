@@ -1,0 +1,32 @@
+Base path: 'C:/Program Files/Unity/Hub/Editor/2019.2.13f1/Editor/Data', plugins path 'C:/Program Files/Unity/Hub/Editor/2019.2.13f1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  error: 1 plat 4 at SimpleParticleSystem.compute(97): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=3273 outsize=1443 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at CircleCompute.compute(42): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=1553 outsize=1134 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at CircleCompute.compute(77): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=2511 outsize=1543 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at WhereCompute.compute(66): syntax error: unexpected token 'f'
+  api=4 insize=2381 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at WhereCompute.compute(66): syntax error: unexpected token 'f'
+  api=4 insize=2400 outsize=0 ok=0
+Cmd: compileSnippet
+  api=4 type=1 insize=1596 outsize=6814 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL LIGHTPROBE_SH pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at ProunounParticleSystem.compute(27): syntax error: unexpected token 'PariticleData'
+  api=4 insize=1886 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at SphereCompute.compute(20): syntax error: unexpected token 'circleSegmentData'
+  api=4 insize=1974 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at SphereCompute.compute(65): 'RotateRadians': no matching 2 parameter function
+  error: 2 plat 4 at SphereCompute.compute(65): undeclared identifier 'position'
+  api=4 insize=1974 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at SphereCompute.compute(65): undeclared identifier '_WolrdSegmentBuffer'
+  api=4 insize=2003 outsize=0 ok=0

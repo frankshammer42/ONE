@@ -1,0 +1,22 @@
+Base path: 'C:/Program Files/Unity/Hub/Editor/2019.2.13f1/Editor/Data', plugins path 'C:/Program Files/Unity/Hub/Editor/2019.2.13f1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  error: 1 plat 4 at CircleCompute.compute(69): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=2225 outsize=1143 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at WhereCompute.compute(18): syntax error: unexpected token 'circleSegmentData'
+  api=4 insize=628 outsize=0 ok=0
+Cmd: compileComputeKernel
+  api=4 insize=1733 outsize=223 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at WhereCompute.compute(88): syntax error: unexpected token 'f'
+  api=4 insize=2510 outsize=0 ok=0
+Cmd: compileComputeKernel
+  api=4 insize=2503 outsize=704 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at ProunounParticleSystem.compute(28): syntax error: unexpected token 'ConnectionData'
+  api=4 insize=2373 outsize=0 ok=0
+Cmd: compileSnippet
+  api=4 type=1 insize=1302 outsize=218 kw=UNITY_PASS_SHADOWCASTER SHADOWS_DEPTH pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileComputeKernel
+  api=4 insize=2372 outsize=1910 ok=1

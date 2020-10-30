@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &365644059180966047
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 365644059180966033}
+  - component: {fileID: 365644059180966046}
+  m_Layer: 0
+  m_Name: HUMAN
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &365644059180966033
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 365644059180966047}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: -15.3}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &365644059180966046
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 365644059180966047}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 342f0570c442a2c4ca577bc18c5104fb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  numberOfParticles: 10000
+  particleColor: {r: 0.8867924, g: 0.28862584, b: 0.28862584, a: 0}
+  ParticleComputeShader: {fileID: 7200000, guid: 834841efeac73824093fbfaaed30e4c9,
+    type: 3}
+  ParticleRenderShader: {fileID: 4800000, guid: c70fc9b80ac82ca4b9ef173ef841aa24,
+    type: 3}
+  LineRenderShader: {fileID: 4800000, guid: 025bd155316761e41b50635bf973ef4d, type: 3}
+  Gravity: {x: 0, y: 0, z: 0}
+  AreaSize: {x: 15, y: 15, z: 15}
+  SphereSize: 5
+  MaxSphereSize: 20
+  speedScale: 1
+  ParticleTex: {fileID: 2800000, guid: e11148eaa4a9dfc4abc33d3bbd845717, type: 3}
+  ParticleSize: 0.05
+  LineThreshold: 2
+  RenderCam: {fileID: 0}

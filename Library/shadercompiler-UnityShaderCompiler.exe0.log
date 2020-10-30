@@ -1,0 +1,992 @@
+Base path: 'C:/Program Files/Unity/Hub/Editor/2019.2.13f1/Editor/Data', plugins path 'C:/Program Files/Unity/Hub/Editor/2019.2.13f1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: preprocess
+  insize=3085 outsize=346 ok=1
+Cmd: preprocessCompute
+  insize=3480 outsize=3479 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at SimpleParticleSystem.compute(99): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=3479 outsize=1443 ok=1
+Cmd: preprocessCompute
+  insize=3458 outsize=3457 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at SimpleParticleSystem.compute(98): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=3457 outsize=1443 ok=1
+Cmd: preprocessCompute
+  insize=3368 outsize=3367 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at SimpleParticleSystem.compute(98): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=3367 outsize=1443 ok=1
+Cmd: preprocessCompute
+  insize=3274 outsize=3273 ok=1
+Cmd: preprocessCompute
+  insize=3275 outsize=3274 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at SimpleParticleSystem.compute(98): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=3274 outsize=1443 ok=1
+Cmd: preprocessCompute
+  insize=3225 outsize=3224 ok=1
+Cmd: preprocessCompute
+  insize=3191 outsize=3190 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at SimpleParticleSystem.compute(96): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=3190 outsize=1443 ok=1
+Cmd: preprocessCompute
+  insize=3001 outsize=3000 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at SimpleParticleSystem.compute(92): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=3000 outsize=1443 ok=1
+Cmd: preprocessCompute
+  insize=3026 outsize=3025 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at SimpleParticleSystem.compute(93): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=3025 outsize=1443 ok=1
+Cmd: preprocessCompute
+  insize=3050 outsize=3049 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at SimpleParticleSystem.compute(94): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=3049 outsize=1443 ok=1
+Cmd: preprocessCompute
+  insize=3104 outsize=3103 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at SimpleParticleSystem.compute(95): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=3103 outsize=1443 ok=1
+Cmd: preprocessCompute
+  insize=3113 outsize=3112 ok=1
+Cmd: preprocessCompute
+  insize=3114 outsize=3113 ok=1
+Cmd: preprocessCompute
+  insize=3091 outsize=3090 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at SimpleParticleSystem.compute(94): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=3090 outsize=1624 ok=1
+Cmd: preprocessCompute
+  insize=3068 outsize=3067 ok=1
+Cmd: preprocessCompute
+  insize=2694 outsize=2693 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at SimpleParticleSystem.compute(85): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=2693 outsize=1624 ok=1
+Cmd: preprocessCompute
+  insize=2641 outsize=2640 ok=1
+Cmd: preprocessCompute
+  insize=2636 outsize=2635 ok=1
+Cmd: preprocessCompute
+  insize=2631 outsize=2630 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at SimpleParticleSystem.compute(82): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=2630 outsize=1624 ok=1
+Cmd: preprocessCompute
+  insize=2574 outsize=2573 ok=1
+Cmd: preprocessCompute
+  insize=2454 outsize=2453 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at SimpleParticleSystem.compute(82): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=2453 outsize=1624 ok=1
+Cmd: preprocessCompute
+  insize=1298 outsize=1297 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at CircleCompute.compute(40): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=1297 outsize=895 ok=1
+Cmd: preprocessCompute
+  insize=1353 outsize=1352 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at CircleCompute.compute(41): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=1352 outsize=895 ok=1
+Cmd: preprocessCompute
+  insize=1371 outsize=1370 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at CircleCompute.compute(41): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=1370 outsize=1068 ok=1
+Cmd: preprocessCompute
+  insize=1432 outsize=1431 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at CircleCompute.compute(27): redefinition of '_CircleSegmentBuffer'
+  api=4 insize=1431 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=1438 outsize=1437 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at CircleCompute.compute(42): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=1437 outsize=1068 ok=1
+Cmd: preprocessCompute
+  insize=1429 outsize=1428 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at CircleCompute.compute(42): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=1428 outsize=1040 ok=1
+Cmd: preprocessCompute
+  insize=1420 outsize=1419 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at CircleCompute.compute(42): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=1419 outsize=895 ok=1
+Cmd: preprocessCompute
+  insize=1444 outsize=1443 ok=1
+Cmd: preprocessCompute
+  insize=1508 outsize=1507 ok=1
+Cmd: preprocessCompute
+  insize=1578 outsize=1577 ok=1
+Cmd: preprocessCompute
+  insize=1584 outsize=1583 ok=1
+Cmd: preprocessCompute
+  insize=1554 outsize=1553 ok=1
+Cmd: preprocessCompute
+  insize=1551 outsize=1550 ok=1
+Cmd: preprocessCompute
+  insize=1591 outsize=1590 ok=1
+Cmd: preprocessCompute
+  insize=1585 outsize=1584 ok=1
+Cmd: preprocessCompute
+  insize=1567 outsize=1566 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at CircleCompute.compute(42): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=1566 outsize=1143 ok=1
+Cmd: preprocessCompute
+  insize=1538 outsize=1537 ok=1
+Cmd: preprocessCompute
+  insize=1544 outsize=1543 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at CircleCompute.compute(44): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=1543 outsize=1143 ok=1
+Cmd: preprocessCompute
+  insize=1542 outsize=1541 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at CircleCompute.compute(43): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=1541 outsize=1143 ok=1
+Cmd: preprocessCompute
+  insize=2086 outsize=2085 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at CircleCompute.compute(68): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=2085 outsize=1143 ok=1
+Cmd: preprocessCompute
+  insize=2116 outsize=2115 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at CircleCompute.compute(69): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=2115 outsize=1143 ok=1
+Cmd: preprocessCompute
+  insize=2140 outsize=2139 ok=1
+Cmd: preprocessCompute
+  insize=2151 outsize=2150 ok=1
+Cmd: preprocessCompute
+  insize=2218 outsize=2217 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at CircleCompute.compute(69): signed/unsigned mismatch, unsigned assumed
+  error: 2 plat 4 at CircleCompute.compute(79): 'mul': no matching 0 parameter intrinsic function; Possible intrinsic functions are: mul(float|half|double|min10float|min16float|int|uint|min12int|min16int|min16uint, float|half|double|min10float|min16float|int|uint|min12int|min16int|min16uint) mul(float|half|double|min10float|min16float|int|uint|min12int|min16int|min16uint, floatK|halfK|doubleK|min10floatK|min16floatK|intK|uintK|min12intK|min16intK|min16uintK) mul(float|half|double|min10float|min16float|int|uint|min12int|min16int|min16uint, floatLxK|halfLxK|doubleLxK|min10floatLxK|min16floatLxK|intLxK|uintLxK|min12intLxK|min16intLxK|min16uintLxK) mul(floatM|halfM|doubleM|min10floatM|min16floatM|intM|uintM|min12intM|min16intM|min16uintM, float|half|double|min10float|min16float|int|uint|min12int|min16int|min16uint) mul(floatM|halfM|doubleM|min10floatM|min16floatM|intM|uintM|min12intM|min16intM|min16uintM, floatM|halfM|doubleM|min10floatM|min16floatM|intM|uintM|min12intM|min16intM|min16uintM) mul(floatM|halfM|doubleM|min10floatM|min16floatM|intM|uintM|min12intM|min16intM|min16uintM, floatMxK|halfMxK|doubleMxK|min10floatMxK|min16floatMxK|intMxK|uintMxK|min12intMxK|min16intMxK|min16uintMxK) mul(floatNxM|halfNxM|doubleNxM|min10floatNxM|min16floatNxM|intNxM|uintNxM|min12intNxM|min16intNxM|min16uintNxM, float|half|double|min10float|min16float|int|uint|min12int|min16int|min16uint) mul(floatNxM|halfNxM|doubleNxM|min10floatNxM|min16floatNxM|intNxM|uintNxM|min12intNxM|min16intNxM|min16uintNxM, floatM|halfM|doubleM|min10floatM|min16floatM|intM|uintM|min12intM|min16intM|min16uintM) mul(floatNxM|halfNxM|doubleNxM|min10floatNxM|min16floatNxM|intNxM|uintNxM|min12intNxM|min16intNxM|min16uintNxM, floatMxK|halfMxK|doubleMxK|min10floatMxK|min16floatMxK|intMxK|uintMxK|min12intMxK|min16intMxK|min16uintMxK)
+  error: 2 plat 4 at CircleCompute.compute(79): syntax error: unexpected token ')'
+  api=4 insize=2217 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=2226 outsize=2225 ok=1
+Cmd: preprocessCompute
+  insize=2214 outsize=2213 ok=1
+Cmd: preprocessCompute
+  insize=2303 outsize=2302 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at CircleCompute.compute(69): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=2302 outsize=1143 ok=1
+Cmd: preprocessCompute
+  insize=2297 outsize=2296 ok=1
+Cmd: preprocessCompute
+  insize=2291 outsize=2290 ok=1
+Cmd: preprocessCompute
+  insize=2291 outsize=2290 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at CircleCompute.compute(69): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=2290 outsize=1143 ok=1
+Cmd: preprocessCompute
+  insize=2291 outsize=2290 ok=1
+Cmd: preprocessCompute
+  insize=2300 outsize=2299 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at CircleCompute.compute(69): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=2299 outsize=1143 ok=1
+Cmd: preprocessCompute
+  insize=2310 outsize=2309 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at CircleCompute.compute(69): signed/unsigned mismatch, unsigned assumed
+  error: 2 plat 4 at CircleCompute.compute(80): undeclared identifier 'radiants'
+  api=4 insize=2309 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=2309 outsize=2308 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at CircleCompute.compute(69): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=2308 outsize=1143 ok=1
+Cmd: preprocessCompute
+  insize=2317 outsize=2316 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at CircleCompute.compute(69): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=2316 outsize=1383 ok=1
+Cmd: preprocessCompute
+  insize=2330 outsize=2329 ok=1
+Cmd: preprocessCompute
+  insize=2330 outsize=2329 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at CircleCompute.compute(69): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=2329 outsize=1459 ok=1
+Cmd: preprocessCompute
+  insize=2330 outsize=2329 ok=1
+Cmd: preprocessCompute
+  insize=2402 outsize=2401 ok=1
+Cmd: preprocessCompute
+  insize=2392 outsize=2391 ok=1
+Cmd: preprocessCompute
+  insize=2388 outsize=2387 ok=1
+Cmd: preprocessCompute
+  insize=2418 outsize=2417 ok=1
+Cmd: preprocessCompute
+  insize=2512 outsize=2511 ok=1
+Cmd: preprocessCompute
+  insize=2606 outsize=2605 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at CircleCompute.compute(78): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=2605 outsize=1543 ok=1
+Cmd: preprocessCompute
+  insize=2606 outsize=2605 ok=1
+Cmd: preprocessCompute
+  insize=2702 outsize=2701 ok=1
+Cmd: preprocessCompute
+  insize=2702 outsize=2701 ok=1
+Cmd: preprocessCompute
+  insize=2702 outsize=2701 ok=1
+Cmd: preprocessCompute
+  insize=2720 outsize=2719 ok=1
+Cmd: preprocessCompute
+  insize=2882 outsize=2881 ok=1
+Cmd: preprocessCompute
+  insize=2885 outsize=2884 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at CircleCompute.compute(76): signed/unsigned mismatch, unsigned assumed
+  error: 2 plat 4 at CircleCompute.compute(92): undeclared identifier 'xRotatedPosition'
+  api=4 insize=2884 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=2879 outsize=2878 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at CircleCompute.compute(76): signed/unsigned mismatch, unsigned assumed
+  error: 2 plat 4 at CircleCompute.compute(91): undeclared identifier 'xRotatedPosition'
+  api=4 insize=2878 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=2877 outsize=2876 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at CircleCompute.compute(76): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=2876 outsize=1859 ok=1
+Cmd: preprocessCompute
+  insize=2871 outsize=2870 ok=1
+Cmd: preprocessCompute
+  insize=2871 outsize=2870 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at CircleCompute.compute(76): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=2870 outsize=1859 ok=1
+Cmd: preprocessCompute
+  insize=2871 outsize=2870 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at CircleCompute.compute(76): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=2870 outsize=1859 ok=1
+Cmd: preprocessCompute
+  insize=2871 outsize=2870 ok=1
+Cmd: preprocessCompute
+  insize=421 outsize=420 ok=1
+Cmd: preprocessCompute
+  insize=303 outsize=302 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at WhereCompute.compute(10): undeclared identifier 'Result'
+  api=4 insize=302 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=403 outsize=402 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at WhereCompute.compute(15): undeclared identifier 'Result'
+  api=4 insize=402 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=438 outsize=437 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at WhereCompute.compute(15): undeclared identifier 'Result'
+  api=4 insize=437 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=552 outsize=551 ok=1
+Cmd: preprocessCompute
+  insize=506 outsize=505 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at WhereCompute.compute(17): undeclared identifier 'Result'
+  api=4 insize=505 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=423 outsize=422 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at (0): Program 'CSMain', error X3084: 'numthreads(X,Y,Z)' attribute expected, where 'X,Y,Z' are the dimensions of the thread group
+  api=4 insize=422 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=384 outsize=383 ok=1
+Cmd: preprocessCompute
+  insize=450 outsize=449 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at WhereCompute.compute(17): syntax error: unexpected token 'void'
+  api=4 insize=449 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=451 outsize=450 ok=1
+Cmd: preprocessCompute
+  insize=490 outsize=489 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at WhereCompute.compute(20): syntax error: unexpected token '}'
+  api=4 insize=489 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=491 outsize=490 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at (0): Program 'CSMain', error X3084: 'numthreads(X,Y,Z)' attribute expected, where 'X,Y,Z' are the dimensions of the thread group
+  api=4 insize=490 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=485 outsize=484 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at (0): Program 'CSMain', error X3084: 'numthreads(X,Y,Z)' attribute expected, where 'X,Y,Z' are the dimensions of the thread group
+  api=4 insize=484 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=629 outsize=628 ok=1
+Cmd: preprocessCompute
+  insize=617 outsize=616 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at (0): Program 'CSMain', error X3084: 'numthreads(X,Y,Z)' attribute expected, where 'X,Y,Z' are the dimensions of the thread group
+  api=4 insize=616 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=613 outsize=612 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at (0): Program 'CSMain', error X3084: 'numthreads(X,Y,Z)' attribute expected, where 'X,Y,Z' are the dimensions of the thread group
+  api=4 insize=612 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=1551 outsize=1550 ok=1
+Cmd: preprocessCompute
+  insize=1543 outsize=1542 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at (0): Program 'CSMain', error X3084: 'numthreads(X,Y,Z)' attribute expected, where 'X,Y,Z' are the dimensions of the thread group
+  api=4 insize=1542 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=1558 outsize=1557 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at (0): Program 'CSMain', error X3084: 'numthreads(X,Y,Z)' attribute expected, where 'X,Y,Z' are the dimensions of the thread group
+  api=4 insize=1557 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=1612 outsize=1611 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1611 outsize=223 ok=1
+Cmd: preprocess
+  insize=1763 outsize=268 ok=1
+Cmd: preprocess
+  insize=1762 outsize=267 ok=1
+Cmd: preprocessCompute
+  insize=1614 outsize=1613 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1613 outsize=223 ok=1
+Cmd: preprocessCompute
+  insize=1636 outsize=1635 ok=1
+Cmd: preprocessCompute
+  insize=1656 outsize=1655 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1655 outsize=223 ok=1
+Cmd: preprocessCompute
+  insize=1633 outsize=1632 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1632 outsize=223 ok=1
+Cmd: preprocessCompute
+  insize=1636 outsize=1635 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1635 outsize=223 ok=1
+Cmd: preprocessCompute
+  insize=1738 outsize=1737 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at WhereCompute.compute(63): undeclared identifier '_ParticleBuffer'
+  api=4 insize=1737 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=1739 outsize=1738 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at WhereCompute.compute(64): undeclared identifier '_ParticleBuffer'
+  api=4 insize=1738 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=1736 outsize=1735 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at WhereCompute.compute(64): undeclared identifier '_ParticleBuffer'
+  api=4 insize=1735 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=1734 outsize=1733 ok=1
+Cmd: preprocessCompute
+  insize=1780 outsize=1779 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at WhereCompute.compute(65): redefinition of 'start'
+  api=4 insize=1779 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=1778 outsize=1777 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1777 outsize=223 ok=1
+Cmd: preprocessCompute
+  insize=1776 outsize=1775 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1775 outsize=223 ok=1
+Cmd: preprocessCompute
+  insize=1836 outsize=1835 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1835 outsize=223 ok=1
+Cmd: preprocessCompute
+  insize=1840 outsize=1839 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1839 outsize=223 ok=1
+Cmd: preprocessCompute
+  insize=1836 outsize=1835 ok=1
+Cmd: preprocessCompute
+  insize=1914 outsize=1913 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1913 outsize=532 ok=1
+Cmd: preprocessCompute
+  insize=1912 outsize=1911 ok=1
+Cmd: preprocessCompute
+  insize=1911 outsize=1910 ok=1
+Cmd: preprocessCompute
+  insize=1908 outsize=1907 ok=1
+Cmd: preprocessCompute
+  insize=1914 outsize=1913 ok=1
+Cmd: preprocessCompute
+  insize=1908 outsize=1907 ok=1
+Cmd: preprocessCompute
+  insize=1916 outsize=1915 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1915 outsize=223 ok=1
+Cmd: preprocess
+  insize=1785 outsize=268 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1958 outsize=466 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1958 outsize=254 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=4 insize=1958 outsize=1154 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: preprocessCompute
+  insize=1908 outsize=1907 ok=1
+Cmd: preprocessCompute
+  insize=1930 outsize=1929 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1929 outsize=704 ok=1
+Cmd: preprocessCompute
+  insize=1936 outsize=1935 ok=1
+Cmd: preprocessCompute
+  insize=1958 outsize=1957 ok=1
+Cmd: preprocessCompute
+  insize=2010 outsize=2009 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=2009 outsize=704 ok=1
+Cmd: preprocessCompute
+  insize=2011 outsize=2010 ok=1
+Cmd: preprocessCompute
+  insize=2049 outsize=2048 ok=1
+Cmd: preprocessCompute
+  insize=2053 outsize=2052 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at WhereCompute.compute(58): syntax error: unexpected token 'f'
+  api=4 insize=2052 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=2045 outsize=2044 ok=1
+Cmd: preprocessCompute
+  insize=2132 outsize=2131 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at WhereCompute.compute(64): syntax error: unexpected token '}'
+  error: 2 plat 4 at WhereCompute.compute(71): undeclared identifier 'bigCubeHalf'
+  api=4 insize=2131 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=2191 outsize=2190 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at WhereCompute.compute(72): syntax error: unexpected token 'f'
+  api=4 insize=2190 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=2200 outsize=2199 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at WhereCompute.compute(68): syntax error: unexpected token 'f'
+  api=4 insize=2199 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=2196 outsize=2195 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at WhereCompute.compute(66): syntax error: unexpected token 'f'
+  api=4 insize=2195 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=2247 outsize=2246 ok=1
+Cmd: preprocessCompute
+  insize=2384 outsize=2383 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at WhereCompute.compute(66): syntax error: unexpected token 'f'
+  error: 2 plat 4 at WhereCompute.compute(75): syntax error: unexpected token '}'
+  error: 2 plat 4 at WhereCompute.compute(87): undeclared identifier 'idx'
+  api=4 insize=2383 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=2378 outsize=2377 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at WhereCompute.compute(66): syntax error: unexpected token 'f'
+  api=4 insize=2377 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=2382 outsize=2381 ok=1
+Cmd: preprocessCompute
+  insize=2401 outsize=2400 ok=1
+Cmd: preprocessCompute
+  insize=2397 outsize=2396 ok=1
+Cmd: preprocessCompute
+  insize=2403 outsize=2402 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at WhereCompute.compute(66): syntax error: unexpected token 'f'
+  api=4 insize=2402 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=2465 outsize=2464 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at WhereCompute.compute(66): syntax error: unexpected token 'f'
+  error: 2 plat 4 at WhereCompute.compute(88): syntax error: unexpected token 'f'
+  api=4 insize=2464 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=2495 outsize=2494 ok=1
+Cmd: preprocessCompute
+  insize=2505 outsize=2504 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at WhereCompute.compute(66): syntax error: unexpected token 'f'
+  error: 2 plat 4 at WhereCompute.compute(88): syntax error: unexpected token 'f'
+  api=4 insize=2504 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=2504 outsize=2503 ok=1
+Cmd: preprocessCompute
+  insize=2506 outsize=2505 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at WhereCompute.compute(88): syntax error: unexpected token 'f'
+  api=4 insize=2505 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=2511 outsize=2510 ok=1
+Cmd: preprocessCompute
+  insize=2510 outsize=2509 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=2509 outsize=704 ok=1
+Cmd: preprocessCompute
+  insize=2504 outsize=2503 ok=1
+Cmd: preprocessCompute
+  insize=2501 outsize=2500 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=2500 outsize=704 ok=1
+Cmd: preprocessCompute
+  insize=2503 outsize=2502 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=2502 outsize=704 ok=1
+Cmd: preprocessCompute
+  insize=2504 outsize=2503 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=2503 outsize=1005 ok=1
+Cmd: preprocessCompute
+  insize=2505 outsize=2504 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=2504 outsize=1005 ok=1
+Cmd: preprocessCompute
+  insize=2512 outsize=2511 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=2511 outsize=1005 ok=1
+Cmd: preprocessCompute
+  insize=2514 outsize=2513 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=2513 outsize=1005 ok=1
+Cmd: preprocessCompute
+  insize=2513 outsize=2512 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=2512 outsize=1005 ok=1
+Cmd: preprocessCompute
+  insize=2526 outsize=2525 ok=1
+Cmd: preprocessCompute
+  insize=2535 outsize=2534 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=2534 outsize=1005 ok=1
+Cmd: preprocessCompute
+  insize=2565 outsize=2564 ok=1
+Cmd: preprocessCompute
+  insize=2583 outsize=2582 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=2582 outsize=1005 ok=1
+Cmd: preprocessCompute
+  insize=2882 outsize=2881 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at WhereCompute.compute(96): 'RotateRadians': no matching 2 parameter function
+  error: 2 plat 4 at WhereCompute.compute(96): undeclared identifier 'position'
+  api=4 insize=2881 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=2873 outsize=2872 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at WhereCompute.compute(96): 'RotateRadians': no matching 2 parameter function
+  error: 2 plat 4 at WhereCompute.compute(96): undeclared identifier 'position'
+  api=4 insize=2872 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=2897 outsize=2896 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at WhereCompute.compute(97): 'RotateRadians': no matching 2 parameter function
+  error: 2 plat 4 at WhereCompute.compute(97): undeclared identifier 'position'
+  api=4 insize=2896 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=2890 outsize=2889 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at WhereCompute.compute(99): undeclared identifier '_CircleSegmentRenderBuffer'
+  api=4 insize=2889 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=2883 outsize=2882 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at WhereCompute.compute(99): undeclared identifier '__WhereLineRenderBuffer'
+  api=4 insize=2882 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=2952 outsize=2951 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at WhereCompute.compute(99): undeclared identifier '__WhereLineRenderBuffer'
+  api=4 insize=2951 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=2937 outsize=2936 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at WhereCompute.compute(99): undeclared identifier '__WhereLineRenderBuffer'
+  api=4 insize=2936 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=2931 outsize=2930 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at WhereCompute.compute(99): undeclared identifier '__WhereLineRenderBuffer'
+  api=4 insize=2930 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=2937 outsize=2936 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=2936 outsize=1005 ok=1
+Cmd: preprocessCompute
+  insize=2933 outsize=2932 ok=1
+Cmd: preprocessCompute
+  insize=2932 outsize=2931 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=2931 outsize=1926 ok=1
+Cmd: preprocessCompute
+  insize=2930 outsize=2929 ok=1
+Cmd: preprocess
+  insize=3085 outsize=346 ok=1
+Cmd: preprocess
+  insize=3086 outsize=347 ok=1
+Cmd: preprocessCompute
+  insize=2454 outsize=2453 ok=1
+Cmd: preprocessCompute
+  insize=2374 outsize=2373 ok=1
+Cmd: preprocessCompute
+  insize=2355 outsize=2354 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at ProunounParticleSystem.compute(27): syntax error: unexpected token 'ConnectionData'
+  api=4 insize=2354 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=2334 outsize=2333 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at ProunounParticleSystem.compute(26): syntax error: unexpected token 'ConnectionData'
+  api=4 insize=2333 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=2169 outsize=2168 ok=1
+Cmd: preprocessCompute
+  insize=2115 outsize=2114 ok=1
+Cmd: preprocessCompute
+  insize=1716 outsize=1715 ok=1
+Cmd: preprocessCompute
+  insize=1596 outsize=1595 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1595 outsize=824 ok=1
+Cmd: preprocessCompute
+  insize=1598 outsize=1597 ok=1
+Cmd: preprocessCompute
+  insize=1609 outsize=1608 ok=1
+Cmd: preprocessCompute
+  insize=1616 outsize=1615 ok=1
+Cmd: preprocessCompute
+  insize=1611 outsize=1610 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1610 outsize=824 ok=1
+Cmd: preprocessCompute
+  insize=1613 outsize=1612 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1612 outsize=864 ok=1
+Cmd: preprocessCompute
+  insize=1616 outsize=1615 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1615 outsize=904 ok=1
+Cmd: preprocessCompute
+  insize=1614 outsize=1613 ok=1
+Cmd: preprocessCompute
+  insize=1613 outsize=1612 ok=1
+Cmd: preprocessCompute
+  insize=1668 outsize=1667 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at ProunounParticleSystem.compute(58): syntax error: unexpected token 'float3'
+  error: 2 plat 4 at ProunounParticleSystem.compute(59): undeclared identifier 'acceleration'
+  api=4 insize=1667 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=1653 outsize=1652 ok=1
+Cmd: preprocessCompute
+  insize=1681 outsize=1680 ok=1
+Cmd: preprocessCompute
+  insize=1690 outsize=1689 ok=1
+Cmd: preprocessCompute
+  insize=1721 outsize=1720 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at ProunounParticleSystem.compute(59): implicit truncation of vector type
+  error: 2 plat 4 at ProunounParticleSystem.compute(63): syntax error: unexpected token 'float3'
+  error: 2 plat 4 at ProunounParticleSystem.compute(64): undeclared identifier 'acceleration'
+  api=4 insize=1720 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=1736 outsize=1735 ok=1
+Cmd: preprocessCompute
+  insize=1744 outsize=1743 ok=1
+Cmd: preprocessCompute
+  insize=1742 outsize=1741 ok=1
+Cmd: preprocessCompute
+  insize=1761 outsize=1760 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at ProunounParticleSystem.compute(59): 'distance': identifier represents a variable, not a function
+  api=4 insize=1760 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=1773 outsize=1772 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at ProunounParticleSystem.compute(59): 'distance': identifier represents a variable, not a function
+  api=4 insize=1772 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=1763 outsize=1762 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at ProunounParticleSystem.compute(59): 'distance': identifier represents a variable, not a function
+  api=4 insize=1762 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=1792 outsize=1791 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at ProunounParticleSystem.compute(59): 'distance': identifier represents a variable, not a function
+  api=4 insize=1791 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=1786 outsize=1785 ok=1
+Cmd: preprocessCompute
+  insize=1782 outsize=1781 ok=1
+Cmd: preprocessCompute
+  insize=1788 outsize=1787 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at ProunounParticleSystem.compute(59): 'distance': identifier represents a variable, not a function
+  api=4 insize=1787 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=1788 outsize=1787 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at ProunounParticleSystem.compute(59): 'distance': identifier represents a variable, not a function
+  api=4 insize=1787 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=1790 outsize=1789 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1789 outsize=832 ok=1
+Cmd: preprocessCompute
+  insize=1790 outsize=1789 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1789 outsize=901 ok=1
+Cmd: preprocessCompute
+  insize=1788 outsize=1787 ok=1
+Cmd: preprocessCompute
+  insize=1791 outsize=1790 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1790 outsize=901 ok=1
+Cmd: preprocessCompute
+  insize=1784 outsize=1783 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at ProunounParticleSystem.compute(61): undeclared identifier 'distance'
+  api=4 insize=1783 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=1787 outsize=1786 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1786 outsize=1045 ok=1
+Cmd: preprocessCompute
+  insize=1785 outsize=1784 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1784 outsize=1045 ok=1
+Cmd: preprocessCompute
+  insize=1786 outsize=1785 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1785 outsize=1045 ok=1
+Cmd: preprocessCompute
+  insize=1785 outsize=1784 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1784 outsize=1045 ok=1
+Cmd: preprocessCompute
+  insize=1829 outsize=1828 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1828 outsize=2109 ok=1
+Cmd: preprocessCompute
+  insize=1829 outsize=1828 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1828 outsize=2109 ok=1
+Cmd: preprocessCompute
+  insize=1829 outsize=1828 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1828 outsize=2109 ok=1
+Cmd: preprocessCompute
+  insize=1830 outsize=1829 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1829 outsize=2109 ok=1
+Cmd: preprocessCompute
+  insize=1831 outsize=1830 ok=1
+Cmd: preprocessCompute
+  insize=1831 outsize=1830 ok=1
+Cmd: preprocessCompute
+  insize=1830 outsize=1829 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1829 outsize=2109 ok=1
+Cmd: preprocessCompute
+  insize=1830 outsize=1829 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1829 outsize=2109 ok=1
+Cmd: preprocessCompute
+  insize=1830 outsize=1829 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1829 outsize=2109 ok=1
+Cmd: preprocessCompute
+  insize=1830 outsize=1829 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1829 outsize=2109 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1596 outsize=1894 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL LIGHTPROBE_SH pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1596 outsize=6814 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL LIGHTPROBE_SH pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1454 outsize=1690 kw=UNITY_PASS_FORWARDADD DIRECTIONAL pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1454 outsize=3378 kw=UNITY_PASS_FORWARDADD DIRECTIONAL pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: preprocessCompute
+  insize=1829 outsize=1828 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1828 outsize=2109 ok=1
+Cmd: preprocessCompute
+  insize=1830 outsize=1829 ok=1
+Cmd: preprocessCompute
+  insize=1887 outsize=1886 ok=1
+Cmd: preprocessCompute
+  insize=1878 outsize=1877 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at ProunounParticleSystem.compute(27): syntax error: unexpected token 'PariticleData'
+  api=4 insize=1877 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=1821 outsize=1820 ok=1
+Cmd: preprocessCompute
+  insize=1830 outsize=1829 ok=1
+Cmd: preprocessCompute
+  insize=2797 outsize=2796 ok=1
+Cmd: preprocessCompute
+  insize=2795 outsize=2794 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at SphereCompute.compute(20): syntax error: unexpected token 'circlePointData'
+  api=4 insize=2794 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=2795 outsize=2794 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at SphereCompute.compute(20): syntax error: unexpected token 'circlePointData'
+  api=4 insize=2794 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=2736 outsize=2735 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at SphereCompute.compute(20): syntax error: unexpected token 'circleSegmentData'
+  api=4 insize=2735 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=1975 outsize=1974 ok=1
+Cmd: preprocessCompute
+  insize=1975 outsize=1974 ok=1
+Cmd: preprocessCompute
+  insize=1986 outsize=1985 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at SphereCompute.compute(65): 'RotateRadians': no matching 2 parameter function
+  error: 2 plat 4 at SphereCompute.compute(65): undeclared identifier '_WorldSegmentBuffer'
+  api=4 insize=1985 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=2018 outsize=2017 ok=1
+Cmd: preprocessCompute
+  insize=2016 outsize=2015 ok=1
+Cmd: preprocessCompute
+  insize=2024 outsize=2023 ok=1
+Cmd: preprocessCompute
+  insize=2020 outsize=2019 ok=1
+Cmd: preprocessCompute
+  insize=2018 outsize=2017 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=2017 outsize=1081 ok=1
+Cmd: preprocessCompute
+  insize=2016 outsize=2015 ok=1
+Cmd: preprocessCompute
+  insize=2004 outsize=2003 ok=1
+Cmd: preprocessCompute
+  insize=2008 outsize=2007 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=2007 outsize=223 ok=1
+Cmd: preprocessCompute
+  insize=2008 outsize=2007 ok=1
+Cmd: preprocessCompute
+  insize=2004 outsize=2003 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at SphereCompute.compute(65): undeclared identifier '_WolrdSegmentBuffer'
+  api=4 insize=2003 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=2004 outsize=2003 ok=1
+Cmd: preprocessCompute
+  insize=2004 outsize=2003 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=2003 outsize=1332 ok=1
+Cmd: preprocessCompute
+  insize=2016 outsize=2015 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=2015 outsize=1393 ok=1
+Cmd: preprocessCompute
+  insize=2114 outsize=2113 ok=1
+Cmd: preprocessCompute
+  insize=2115 outsize=2114 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=2114 outsize=1493 ok=1
+Cmd: preprocessCompute
+  insize=2126 outsize=2125 ok=1
+Cmd: preprocessCompute
+  insize=2102 outsize=2101 ok=1
+Cmd: preprocessCompute
+  insize=2096 outsize=2095 ok=1
+Cmd: preprocess
+  insize=1782 outsize=269 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1954 outsize=466 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1954 outsize=254 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=4 insize=1954 outsize=1154 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: preprocess
+  insize=1782 outsize=269 ok=1
+Cmd: preprocessCompute
+  insize=2114 outsize=2113 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=2113 outsize=1549 ok=1
+Cmd: preprocessCompute
+  insize=2120 outsize=2119 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at SphereCompute.compute(66): undeclared identifier 'speed'
+  api=4 insize=2119 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=2145 outsize=2144 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=2144 outsize=1577 ok=1
+Cmd: preprocessCompute
+  insize=2167 outsize=2166 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=2166 outsize=1577 ok=1
+Cmd: preprocessCompute
+  insize=2191 outsize=2190 ok=1
+Cmd: preprocessCompute
+  insize=2271 outsize=2270 ok=1
+Cmd: preprocessCompute
+  insize=2276 outsize=2275 ok=1
+Cmd: preprocessCompute
+  insize=2285 outsize=2284 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at SphereCompute.compute(68): undeclared identifier 'ditance'
+  api=4 insize=2284 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=2284 outsize=2283 ok=1
+Cmd: preprocessCompute
+  insize=2291 outsize=2290 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at SphereCompute.compute(68): 'distance': identifier represents a variable, not a function
+  api=4 insize=2290 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=2294 outsize=2293 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=2293 outsize=1577 ok=1
+Cmd: preprocessCompute
+  insize=2294 outsize=2293 ok=1
+Cmd: preprocessCompute
+  insize=2405 outsize=2404 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=2404 outsize=1577 ok=1
+Cmd: preprocessCompute
+  insize=2383 outsize=2382 ok=1
+Cmd: preprocessCompute
+  insize=2371 outsize=2370 ok=1
+Cmd: preprocessCompute
+  insize=2353 outsize=2352 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=2352 outsize=1854 ok=1
+Cmd: preprocessCompute
+  insize=2373 outsize=2372 ok=1

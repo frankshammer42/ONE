@@ -1,0 +1,25 @@
+Base path: 'C:/Program Files/Unity/Hub/Editor/2019.2.13f1/Editor/Data', plugins path 'C:/Program Files/Unity/Hub/Editor/2019.2.13f1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  error: 1 plat 4 at CircleCompute.compute(42): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=1583 outsize=1134 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at CircleCompute.compute(42): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=1550 outsize=1214 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at CircleCompute.compute(69): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=2139 outsize=1143 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at WhereCompute.compute(58): syntax error: unexpected token 'f'
+  api=4 insize=2010 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 1 plat 4 at ProunounParticleSystem.compute(59): comma expression used where a vector constructor may have been intended; potentially unintended use of a comma expression in a variable initializer
+  error: 1 plat 4 at ProunounParticleSystem.compute(59): implicit truncation of vector type
+  api=4 insize=1735 outsize=864 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at SphereCompute.compute(21): syntax error: unexpected token 'circlePointData'
+  api=4 insize=2796 outsize=0 ok=0
+Cmd: compileComputeKernel
+  api=4 insize=2095 outsize=1549 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=11846 outsize=1258 kw=SHADOWS_SPLIT_SPHERES SHADOWS_SINGLE_CASCADE pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1

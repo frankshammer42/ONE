@@ -1,0 +1,38 @@
+Base path: 'C:/Program Files/Unity/Hub/Editor/2019.2.13f1/Editor/Data', plugins path 'C:/Program Files/Unity/Hub/Editor/2019.2.13f1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  error: 1 plat 4 at SimpleParticleSystem.compute(97): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=3224 outsize=1443 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at SimpleParticleSystem.compute(95): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=3113 outsize=1624 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at CircleCompute.compute(69): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=2290 outsize=1143 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at CircleCompute.compute(76): signed/unsigned mismatch, unsigned assumed
+  error: 2 plat 4 at CircleCompute.compute(89): redefinition of 'rotatedPosition'
+  api=4 insize=2881 outsize=0 ok=0
+Cmd: compileComputeKernel
+  api=4 insize=1910 outsize=704 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at WhereCompute.compute(58): syntax error: unexpected token 'f'
+  api=4 insize=2044 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at WhereCompute.compute(66): syntax error: unexpected token 'f'
+  api=4 insize=2396 outsize=0 ok=0
+Cmd: compileComputeKernel
+  api=4 insize=2929 outsize=1978 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1613 outsize=864 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at ProunounParticleSystem.compute(59): 'distance': identifier represents a variable, not a function
+  api=4 insize=1785 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at SphereCompute.compute(71): syntax error: unexpected token 'float3'
+  error: 2 plat 4 at SphereCompute.compute(73): undeclared identifier 'rotatedPosition'
+  api=4 insize=2113 outsize=0 ok=0
+Cmd: compileComputeKernel
+  api=4 insize=2293 outsize=1577 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=2370 outsize=1854 ok=1

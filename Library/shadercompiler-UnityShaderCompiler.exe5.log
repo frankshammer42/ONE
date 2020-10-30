@@ -1,0 +1,52 @@
+Base path: 'C:/Program Files/Unity/Hub/Editor/2019.2.13f1/Editor/Data', plugins path 'C:/Program Files/Unity/Hub/Editor/2019.2.13f1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  error: 1 plat 4 at SimpleParticleSystem.compute(95): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=3112 outsize=1588 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at SimpleParticleSystem.compute(84): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=2640 outsize=1624 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at CircleCompute.compute(69): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=2296 outsize=1143 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at CircleCompute.compute(79): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=2701 outsize=1543 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at CircleCompute.compute(76): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=2870 outsize=1859 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at (0): Program 'CSMain', error X3084: 'numthreads(X,Y,Z)' attribute expected, where 'X,Y,Z' are the dimensions of the thread group
+  api=4 insize=450 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at WhereCompute.compute(62): syntax error: unexpected token '['
+  api=4 insize=1957 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at WhereCompute.compute(66): syntax error: unexpected token 'f'
+  error: 2 plat 4 at WhereCompute.compute(88): syntax error: unexpected token 'f'
+  api=4 insize=2494 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at ProunounParticleSystem.compute(60): undeclared identifier 'insideSphere'
+  api=4 insize=1715 outsize=0 ok=0
+Cmd: compileComputeKernel
+  api=4 insize=1615 outsize=864 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at ProunounParticleSystem.compute(59): syntax error: unexpected token 'float3'
+  error: 2 plat 4 at ProunounParticleSystem.compute(60): undeclared identifier 'acceleration'
+  api=4 insize=1652 outsize=0 ok=0
+Cmd: compileComputeKernel
+  api=4 insize=1680 outsize=864 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1830 outsize=2109 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1830 outsize=2109 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1596 outsize=1894 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL LIGHTPROBE_SH pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1820 outsize=1964 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=2015 outsize=1393 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=2023 outsize=223 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=2019 outsize=223 ok=1

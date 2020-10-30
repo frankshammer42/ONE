@@ -1,0 +1,51 @@
+Base path: 'C:/Program Files/Unity/Hub/Editor/2019.2.13f1/Editor/Data', plugins path 'C:/Program Files/Unity/Hub/Editor/2019.2.13f1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  error: 1 plat 4 at CircleCompute.compute(42): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=1507 outsize=1134 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at CircleCompute.compute(41): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=1537 outsize=1143 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at CircleCompute.compute(69): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=2290 outsize=1143 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at CircleCompute.compute(82): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=2401 outsize=1543 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at CircleCompute.compute(78): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=2605 outsize=1543 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at CircleCompute.compute(79): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=2701 outsize=1543 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at CircleCompute.compute(76): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=2719 outsize=1543 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at (0): Program 'CSMain', error X3084: 'numthreads(X,Y,Z)' attribute expected, where 'X,Y,Z' are the dimensions of the thread group
+  api=4 insize=383 outsize=0 ok=0
+Cmd: compileComputeKernel
+  api=4 insize=1911 outsize=564 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1907 outsize=704 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1913 outsize=704 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at WhereCompute.compute(58): syntax error: unexpected token 'f'
+  api=4 insize=2048 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at ProunounParticleSystem.compute(60): undeclared identifier 'insideSphere'
+  api=4 insize=2114 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at ProunounParticleSystem.compute(59): 'distance': identifier represents a variable, not a function
+  api=4 insize=1741 outsize=0 ok=0
+Cmd: compileSnippet
+  api=4 type=0 insize=1302 outsize=1414 kw=UNITY_PASS_SHADOWCASTER SHADOWS_DEPTH pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at SphereCompute.compute(67): undeclared identifier '_CircleSegmentRenderBuffer'
+  api=4 insize=2017 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at SphereCompute.compute(67): undeclared identifier '_WorldSegmentBuffer'
+  api=4 insize=2003 outsize=0 ok=0
+Cmd: compileComputeKernel
+  api=4 insize=2190 outsize=1577 ok=1

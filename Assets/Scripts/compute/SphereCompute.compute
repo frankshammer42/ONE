@@ -1,0 +1,76 @@
+﻿#pragma kernel CSMain
+
+#define NUM_THREAD_X 8 
+#define NUM_THREAD_Y 1 
+#define NUM_THREAD_Z 1 
+#define PI 3.14159265
+
+struct sphereSegmentData{
+    float3 start;
+    float3 end;
+    float speed;
+};
+
+cbuffer CB{
+    float3 _CurrentOffset;
+    float3 _CurrentRotation;
+    float _TimeStep;
+    float _MaxScale;
+    uint _SpherePointCount;
+}
+
+RWStructuredBuffer<sphereSegmentData> _WorldSegmentBuffer;
+RWStructuredBuffer<sphereSegmentData> _WorldSegmentRenderBuffer;
+
+inline float3x3 xRotation3dRadians(float rad) {
+    float s = sin(rad);
+    float c = cos(rad);
+    return float3x3(
+        1, 0, 0,
+        0, c, -s,
+        0, s, c);
+}
+ 
+inline float3x3 yRotation3dRadians(float rad) {
+    float s = sin(rad);
+    float c = cos(rad);
+    return float3x3(
+        c, 0, s,
+        0, 1, 0,
+        -s, 0, c);
+}
+ 
+inline float3x3 zRotation3dRadians(float rad) {
+    float s = sin(rad);
+    float c = cos(rad);
+    return float3x3(
+        c, -s, 0,
+        s, c, 0,
+        0, 0, 1);
+}
+
+inline float3 RotateRadians(float3 rotation, float3 currentPosition){
+    float3 xRotatedPosition = mul(xRotation3dRadians(radians(rotation.x)), currentPosition);
+    float3 yRotatedPosition = mul(yRotation3dRadians(radians(rotation.y)), xRotatedPosition);
+    float3 zRotatedPosition = mul(zRotation3dRadians(radians(rotation.z)), yRotatedPosition);
+    return zRotatedPosition;
+}
+
+[numthreads(NUM_THREAD_X, NUM_THREAD_Y, NUM_THREAD_Z)]
+void CSMain ( uint3 Gid  : SV_GroupID,
+              uint3 GTid : SV_GroupThreadID,
+              uint3 DTid : SV_DispatchThreadID,
+			  uint  GI   : SV_GroupIndex )
+{
+    float3 offset = _CurrentOffset;
+    int idx = DTid.x;
+    _WorldSegmentBuffer[idx].end += normalize(_WorldSegmentBuffer[idx].start)*_WorldSegmentBuffer[idx].speed;
+    float distanceVal = distance(_WorldSegmentBuffer[idx].start, _WorldSegmentBuffer[idx].end);
+    if (distanceVal > _MaxScale || distanceVal < 20){
+        _WorldSegmentBuffer[idx].speed *= -1;
+    }
+    float3 rotatedPosition = RotateRadians(_CurrentRotation, _WorldSegmentBuffer[idx].start);
+    float3 rotatedPositionNext = RotateRadians(_CurrentRotation, _WorldSegmentBuffer[idx].end);
+    _WorldSegmentRenderBuffer[idx].start = rotatedPosition + offset;
+    _WorldSegmentRenderBuffer[idx].end = rotatedPositionNext + offset;
+}

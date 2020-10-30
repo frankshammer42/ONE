@@ -1,0 +1,33 @@
+Base path: 'C:/Program Files/Unity/Hub/Editor/2019.2.13f1/Editor/Data', plugins path 'C:/Program Files/Unity/Hub/Editor/2019.2.13f1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  error: 1 plat 4 at CircleCompute.compute(69): signed/unsigned mismatch, unsigned assumed
+  error: 2 plat 4 at CircleCompute.compute(84): array dimensions must be literal scalar expressions
+  api=4 insize=2150 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 1 plat 4 at CircleCompute.compute(69): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=2213 outsize=1143 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at CircleCompute.compute(69): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=2329 outsize=1459 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at CircleCompute.compute(69): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=2329 outsize=1543 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at CircleCompute.compute(76): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=2417 outsize=1543 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at CircleCompute.compute(76): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=2870 outsize=1859 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1935 outsize=704 ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=11846 outsize=5706 kw=SHADOWS_SPLIT_SPHERES pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileComputeKernel
+  api=4 insize=2125 outsize=1549 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at SphereCompute.compute(68): invalid subscript 'end'
+  api=4 insize=2270 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 1 plat 4 at SphereCompute.compute(68): implicit truncation of vector type
+  api=4 insize=2275 outsize=1577 ok=1
